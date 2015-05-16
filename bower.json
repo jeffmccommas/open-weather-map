@@ -1,0 +1,23 @@
+{
+  "name": "open-weather-map",
+  "version": "0.0.0",
+  "authors": [
+    "Jeff McCommas <jeffmccommas@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4",
+    "ui-router": "~0.2.14",
+    "angular-animate": "1.4"
+  }
+}
