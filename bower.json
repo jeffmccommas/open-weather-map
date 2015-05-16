@@ -18,6 +18,7 @@
   "dependencies": {
     "angular": "1.4",
     "ui-router": "~0.2.14",
-    "angular-animate": "1.4"
+    "angular-animate": "1.4",
+    "bootstrap": "~3.3.4"
   }
 }
